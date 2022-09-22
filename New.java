@@ -1,17 +1,17 @@
 package org.example;
-class EMP{
+class Employee{
 
     int id;
     String name, address;
     String phone;
-    public EMP(int i, String n, String a, String p){
-        this.id = i;
-        this.name = n;
-        this.address = a;
-        this.phone = p;
+    public EMP(int a, String b, String c, String d){
+        this.id = a;
+        this.name = b;
+        this.address = c;
+        this.phone = d;
     }
 
-    public void display(int i){
+    public void display(int a){
         System.out.println("Name:"+id+"\nphone:"+phone);
     }
 
@@ -20,10 +20,10 @@ class EMP{
     }
 }
 
-class HR extends EMP{
+class HR extends Employee{
     int salary;
-    public HR(int i, String n, String a, String p, int sal) {
-        super(i, n, a, p);
+    public HR(int a, String b, String c, String d, int sal) {
+        super(a, b, c, d);
         this.salary = sal;
     }
 
@@ -40,11 +40,11 @@ class New{
 
     public static void main(String args[]){
 
-        EMP obj1 = new EMP(1,"Abhishek","Savanur", "8660554576");
-        HR obj2 = new HR(1,"Abhishek","Savanur", "8660554576", 25000);
+        Employee obj1 = new Employee(1,"ABC","XYZ", "786876");
+        HR obj2 = new HR(1,"abc","xyz", "987654321", 600);
         obj1.display(1);
         obj1.display();
         obj2.empWithSalary();
-        obj2.empWithSalary(3000);
+        obj2.empWithSalary(5000);
     }
 }

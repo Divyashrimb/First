@@ -12,11 +12,13 @@ class Employee{
     }
 
     public void display(int a){
-        System.out.println("Name:"+id+"\nphone:"+phone);
+        System.out.println(id);
+        System.out.println(phone);
     }
 
     public void display(){
-        System.out.println("\nName:"+name+"\nAddress:"+address);
+        System.out.println(name);
+        System.out.println(address);
     }
 }
 
@@ -28,7 +30,8 @@ class HR extends Employee{
     }
 
     public void empWithSalary(){
-        System.out.println("\nEmployee Name: "+name+"\nSalary: "+salary);
+        System.out.println(name);
+        System.out.println(salary);
     }
 
     public void empWithSalary(int tax){

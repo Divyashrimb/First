@@ -7,3 +7,5 @@ Empcont:- This is the demo for control statements
 ReverseString:-- This code is for a simple reverse of a String
 Immute:- This is the code for Immutable class
 Patt:-- Demo about regex pattern and matcher
+Email:-- validating if the email is correct or wrong
+Empcont:--creating array and using for each

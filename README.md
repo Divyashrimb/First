@@ -6,3 +6,4 @@ Empswitch:- This is the demo for Switch statement
 Empcont:- This is the demo for control statements
 ReverseString:-- This code is for a simple reverse of a String
 Immute:- This is the code for Immutable class
+Patt:-- Demo about regex pattern and matcher

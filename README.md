@@ -10,3 +10,6 @@ Patt:-- Demo about regex pattern and matcher
 Email:-- validating if the email is correct or wrong
 Empcont:--creating array and using for each
 Empvalid:-- checking employee details using switch
+ExceptionNew:-- Demonstration on how to work on try and catch
+ExceptionThrow:-- This is to Demonstrate the throw and throws
+ExceptionTest:--This is to Demonstrate the try catch exceptions with finally

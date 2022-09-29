@@ -1,8 +1,8 @@
 # First
 1) New:-This a code for Overloading of the class Employee
-2) New1:- This is the simple constructor
-3) Empif:- This code has the If statement
-4) Empswitch:- This is the demo for Switch statement
+2) New1:- This is the simple constructor which has the same name as the class name
+3) Empif:- This code has the simple if statement
+4) Empswitch:- This is the demo for Switch statement which has multiple cases
 5) Empcont:- This is the demo for control statements
 6) ReverseString:-- This code is for a simple reverse of a String
 7) Immute:- This is the code for Immutable class

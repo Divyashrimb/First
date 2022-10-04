@@ -1,5 +1,5 @@
 # First
-1) New:-This a code for Overloading of the class Employee
+1) New:-This is a code for Overloading of the class Employee
 2) New1:- This is the simple constructor which has the same name as the class name
 3) Empif:- This code has the simple if statement
 4) Empswitch:- This is the demo for Switch statement which has multiple cases

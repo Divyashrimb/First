@@ -19,3 +19,4 @@
 18) EmpHashMap:-- This is The Demonstration of Hash Map using toString
 19) LinkedTreeSet:-- This is to demonstrate Tree set which does not print duplicate values
 20) LinkedTreeMap:-- This is to demonstrate the Tree Map which Displays the list in order
+21) MyThread:-- This is to Demonstrate the Simple thread where we are giving names to the threads and used join()

@@ -15,3 +15,5 @@
 14) ExceptionTest:--This is to Demonstrate the try catch exceptions with finally
 15) LinkedListEx:-- Demonstration of Linked list
 16) LinkedListNew:-- The Demonstration about linked list to connect two nodes and display them this is using if and while loops
+17)HashMap1:-- Demonstration on HashMap
+18):-- 

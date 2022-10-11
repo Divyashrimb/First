@@ -20,3 +20,6 @@
 19) LinkedTreeSet:-- This is to demonstrate Tree set which does not print duplicate values
 20) LinkedTreeMap:-- This is to demonstrate the Tree Map which Displays the list in order
 21) MyThread:-- This is to Demonstrate the Simple thread where we are giving names to the threads and used join()
+22) CallThread:-- This code implements the callable interface which uses single call method thata returns the value.
+23)ArrayCallThread:-- This is a code for callable using ArrayList and also uses Future interface belongs to java.util.concurrent package and Prints the list of values.
+24)RemoveCallThread:-- Using the remove() method of the ArrayList class is the way of deleting or removing the element from the ArrayList.  

@@ -23,3 +23,5 @@
 22) CallThread:-- This code implements the callable interface which uses single call method thata returns the value.
 23) ArrayCallThread:-- This is a code for callable using ArrayList and also uses Future interface belongs to java.util.concurrent package and Prints the list of values.
 24) RemoveCallThread:-- Using the remove() method of the ArrayList class is the way of deleting or removing the element from the ArrayList.  
+25) Runnable:-- Runnable is an interface that is implemented by a class whose instances are executed by a thread. Here the class implements the Runnable inteface.
+26) RunnableWithExecutorService:-- The Executor service is a interface which allows to execute tasks on threads asynchronously. The ExecutorService helps in maintaining a pool of threads and assigns them tasks. It also provides the facility to queue up tasks until there is a free thread available if the number of tasks is more than the threads available. 

@@ -26,3 +26,6 @@
 25) Runnable:-- Runnable is an interface that is implemented by a class whose instances are executed by a thread. Here the class implements the Runnable inteface.
 26) RunnableWithExecutorService:-- The Executor service is a interface which allows to execute tasks on threads asynchronously. The ExecutorService helps in maintaining a pool of threads and assigns them tasks. It also provides the facility to queue up tasks until there is a free thread available if the number of tasks is more than the threads available. 
 27) DemoSyn:-- 
+28) Practice:-- 
+29) PracticeThread:--
+30) WaitAndNotify:--
